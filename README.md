@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on honing my skills in MERN stack 
 - 🌱 I’m currently learning Gatsby JS and Typescript 
 - 👯 I’m looking to collaborate on any project that is interesting 
-- ⚡ Fun fact: I love to play sports 
+- ⚡ Fun fact: I love to play sports and research about tech
 
 
 <h3 align="left">Connect with me:</h3>
